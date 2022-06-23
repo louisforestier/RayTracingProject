@@ -18,3 +18,6 @@ J'ai pris le parti de mélanger les couleurs obtenues par la transmission, la r�
 Ce n'est pas parfait, j'ai vu qu'il existait le coefficient de Fresnel pour mélanger réflexion et transmission mais je n'ai pas eu le temps de l'implanter.
 Le principal problème est qu'il n'est plus possible d'obtenir des objets qui réfléchissent ou qui transmettent à 100% la lumière, ils ont forcément une couleur.
 Une solution pourrait être de ne pas mettre de couleur pour ces objets.
+
+Image de test :
+![Rendu](imagetest.jpg)
