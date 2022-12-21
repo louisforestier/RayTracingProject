@@ -1,6 +1,8 @@
-# Projet Lancer de rayon
+# Projet Lancer de rayon  
 
 Autheur : Louis Forestier
+
+Réalisé en Première année de Master Informatique à l'Université de Poitiers.
 
 Le code a été réalisé avec Java 8 et utilise le framework JavaFX inclus dans cette version de Java.\
 En utilisant cette version, il n'y a pas besoin de spécifier le module JavaFX, on peut compiler et exécuter comme une programme Java standard.
